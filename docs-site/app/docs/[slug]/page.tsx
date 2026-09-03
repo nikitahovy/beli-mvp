@@ -15,7 +15,7 @@ import {
   Github
 } from 'lucide-react'
 
-const DOCS_DIR = path.join(process.cwd(), '../docs')
+const DOCS_DIR = path.join(process.cwd(), 'docs')
 
 interface DocMeta {
   title: string
